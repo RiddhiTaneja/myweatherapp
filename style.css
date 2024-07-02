@@ -6,12 +6,12 @@
 
 }
 body{
-    background: rgb(182, 217, 245);
+    background: rgb(140, 187, 226);
 }
 .card{
- /* width: 50%; */
- /* max-width: auto; */
- background: linear-gradient(135deg ,#00e0fe,#5b548a);
+ width: 90%;
+ max-width: 470px;
+ background: linear-gradient(135deg ,#8bdaff,#5b548a);
  color: #fff;
  margin: 100px auto 0;
  border-radius: 20px;
@@ -19,7 +19,7 @@ body{
  text-align: center;   
 }
 .search{
-    /* width: 100%; */
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
